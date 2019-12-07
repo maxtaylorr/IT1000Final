@@ -7,12 +7,13 @@
 
 #### Video Marketing
 
-- Generating traffic on social media through video marketing and creative video ideas
+Generating traffic on social media through video marketing and creative video ideas
 
 #### Data Migration and SharePoint Development
 
-- Restructuring SharePoint site through new site hierarchy and new libraries
-- Moving data from old SharePoint site to new site efficiently
+Restructuring SharePoint site through new site hierarchy and new libraries
+
+Moving data from old SharePoint site to new site efficiently
 
 ---
 
@@ -21,9 +22,11 @@
 
 #### Help Desk/IT Specialist
 
-- Helping employees with any IT related issues
-- Side projects within the company to help
-- General IT projects
+Helping employees with any IT related issues
+
+Side projects within the company to help
+
+General IT projects
 
 ---
 
