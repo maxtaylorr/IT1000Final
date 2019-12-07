@@ -1,7 +1,6 @@
-# Max Taylor
+# 'print("Max Taylor's Personal Markdown Project")'
 ![senior_orrie_max_23](senior_orrie_max_23.jpg)
 Find out about my **work history**, **hobbies**, and **interests** within the IT world.
-
 ---
 
 ### Navigation
