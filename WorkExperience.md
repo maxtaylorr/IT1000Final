@@ -33,6 +33,5 @@ General IT projects
 ### Navigation
 - [Home](https://github.com/maxtaylorr/IT1000Final/blob/master/README.md)
 - [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/WorkExperience.md)
-- Hobbies
-- IT Areas
+- [Hobbies](https://github.com/maxtaylorr/IT1000Final/blob/master/Hobbies.md)
 - Background
