@@ -25,6 +25,7 @@
 - Side projects within the company to help
 - General IT projects
 
+---
 
 ### Navigation
 - Home
