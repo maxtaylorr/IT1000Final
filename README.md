@@ -7,4 +7,4 @@ Find out about my **work history**, **hobbies**, and **interests** within the IT
 - [Home](https://github.com/maxtaylorr/IT1000Final/blob/master/README.md)
 - [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/WorkExperience.md)
 - [Hobbies/Interests](https://github.com/maxtaylorr/IT1000Final/blob/master/Hobbies.md)
-- Background
+- [Background](https://github.com/maxtaylorr/IT1000Final/blob/master/Background.md)
