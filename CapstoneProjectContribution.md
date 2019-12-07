@@ -87,7 +87,7 @@ The most significant portion I helped with was data structures
         case deals
       }
     }
-
+    
     struct Deal:Hashable, Codable{
       let hours: String
       let deals: [String]
@@ -97,3 +97,12 @@ The most significant portion I helped with was data structures
       var latitude:Double
       var longitude:Double
     }`
+    
+---
+
+### Navigation
+- [Home](https://github.com/maxtaylorr/IT1000Final/blob/master/README.md)
+- [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/WorkExperience.md)
+- [Hobbies/Interests](https://github.com/maxtaylorr/IT1000Final/blob/master/Hobbies.md)
+- [Background](https://github.com/maxtaylorr/IT1000Final/blob/master/Background.md)
+- [Capstone Project Contribution](https://github.com/maxtaylorr/IT1000Final/master/CapstoneProjectContribution.md)
