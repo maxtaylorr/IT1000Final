@@ -32,7 +32,7 @@ General IT projects
 
 ### Navigation
 - Home
-- [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/Work%20Experience.md)
+- [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/WorkExperience.md)
 - Hobbies
 - IT Areas
 - Background
