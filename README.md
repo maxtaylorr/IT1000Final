@@ -3,7 +3,8 @@
 Find out about my **work history**, **hobbies**, and **interests** within the IT world.
 
 ### Navigation
-- Work Experience
+- Home
+- [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/Work%20Experience.md)
 - Hobbies
 - IT Areas
 - Background
