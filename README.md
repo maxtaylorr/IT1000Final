@@ -6,7 +6,7 @@ Find out about my **work history**, **hobbies**, and **interests** within the IT
 
 ### Navigation
 - [Home](https://github.com/maxtaylorr/IT1000Final/blob/master/README.md)
-- [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/Work%20Experience.md)
+- [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/WorkExperience.md)
 - Hobbies
 - IT Areas
 - Background
