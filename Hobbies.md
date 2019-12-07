@@ -43,4 +43,4 @@ Some of my favorites consist of
 - [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/WorkExperience.md)
 - [Hobbies/Interests](https://github.com/maxtaylorr/IT1000Final/blob/master/Hobbies.md)
 - [Background](https://github.com/maxtaylorr/IT1000Final/blob/master/Background.md)
-- [Capstone Project Contribution](https://github.com/maxtaylorr/IT1000Final/master/CapstoneProjectContribution.md)
+- [Capstone Project Contribution](https://github.com/maxtaylorr/IT1000Final/blob/master/CapstoneProjectContribution.md)
