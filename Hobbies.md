@@ -41,5 +41,5 @@ Some of my favorites consist of
 ### Navigation
 - [Home](https://github.com/maxtaylorr/IT1000Final/blob/master/README.md)
 - [Work Experience](https://github.com/maxtaylorr/IT1000Final/blob/master/WorkExperience.md)
-- Hobbies
+- [Hobbies](https://github.com/maxtaylorr/IT1000Final/blob/master/Hobbies.md)
 - Background
